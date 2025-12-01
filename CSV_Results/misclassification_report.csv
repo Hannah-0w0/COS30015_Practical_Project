@@ -1,0 +1,31 @@
+Type,Filename,Content_Snippet
+False Positive (Safe marked as Spam),cmds.txt,mv 00001.7c53336b37003a9286aba55d2945844c 00001.7c53336b37003a9286aba55d2945844c mv 00002.9c4069e25e
+False Negative (Spam marked as Safe),00299.f786faed64bef7134e52fafa17ea861f.txt,From knj704114b32@hotmail.com  Sat Sep 14 16:21:06 2002 Return-Path: <knj704114b32@hotmail.com> Deli
+False Negative (Spam marked as Safe),00064.65b95365450ebe5eef61e7f1c60edc5e.txt,From IA@rogers.com  Mon Aug 26 15:15:15 2002 Return-Path: <IA@rogers.com> Delivered-To: zzzz@localho
+False Negative (Spam marked as Safe),00394.cca39f925676ecca947eaed2b600fe70.txt,From yhdiana99b@lycos.com  Fri Sep 20 14:16:18 2002 Return-Path: <yhdiana99b@lycos.com> Delivered-To
+False Negative (Spam marked as Safe),00204.a008813ddeb2d5febd1fc676c07e9760.txt,From cbuBrookie69@hushmail.com  Mon Sep  2 16:28:00 2002 Return-Path: <cbuBrookie69@hushmail.com> De
+False Negative (Spam marked as Safe),00153.6a5ffe584834ea334041ab958cadcadb.txt,From social-admin@linux.ie  Thu Aug 29 11:17:25 2002 Return-Path: <social-admin@linux.ie> Delivered-
+False Negative (Spam marked as Safe),00145.0ec326fee0570953d684e40edd3fa7b8.txt,From hnplayboybaby69@site-personals.com  Wed Aug 28 18:07:23 2002 Return-Path: <hnplayboybaby69@site
+False Negative (Spam marked as Safe),00185.8ca19012fa3f2a906f23c3b41f11ffed.txt,From info@qpas.co.uk  Mon Sep  2 12:30:08 2002 Return-Path: <info@qpas.co.uk> Delivered-To: zzzz@loc
+False Negative (Spam marked as Safe),00068.d10af636a6082d5172ceb34a944486e6.txt,From jek@imail.ru  Mon Aug 26 15:15:31 2002 Return-Path: <jek@imail.ru> Delivered-To: zzzz@localhost
+False Negative (Spam marked as Safe),00193.c04ef77bc3dbaa5762760a6ea138df0e.txt,From ilug-admin@linux.ie  Mon Sep  2 16:27:25 2002 Return-Path: <ilug-admin@linux.ie> Delivered-To: 
+False Negative (Spam marked as Safe),00081.123b29a781b2e8c83763e5d440e672a3.txt,From ilug-admin@linux.ie  Mon Aug 26 15:48:46 2002 Return-Path: <ilug-admin@linux.ie> Delivered-To: 
+False Negative (Spam marked as Safe),00033.9babb58d9298daa2963d4f514193d7d6.txt,From stats@websitetracker.com  Fri Aug 23 15:00:02 2002 Return-Path: <stats@websitetracker.com> Deli
+False Negative (Spam marked as Safe),00140.eba666846fa0a138a90aeef51a627022.txt,From social-admin@linux.ie  Wed Aug 28 14:26:08 2002 Return-Path: <social-admin@linux.ie> Delivered-
+False Negative (Spam marked as Safe),00089.7e7baae6ef4a8fb945d7b3fe551329fe.txt,From havoc1006@yahoo.com  Mon Aug 26 15:49:43 2002 Return-Path: <havoc1006@yahoo.com> Delivered-To: 
+False Negative (Spam marked as Safe),00480.a5931465ca6f5b22eff24943b5c8b17d.txt,From ilug-admin@linux.ie  Thu Sep 26 11:30:33 2002 Return-Path: <ilug-admin@linux.ie> Delivered-To: 
+False Negative (Spam marked as Safe),00163.244a217b150d2129cbdc52b96d992382.txt,From sammytrudeau@yahoo.co.uk  Mon Sep  2 12:13:17 2002 Return-Path: <sammytrudeau@yahoo.co.uk> Deli
+False Negative (Spam marked as Safe),00472.713268dfca421e165c1ac59bab045e00.txt,From freeadult9b9a@hotmail.com  Thu Sep 26 11:29:51 2002 Return-Path: <freeadult9b9a@hotmail.com> De
+False Negative (Spam marked as Safe),00031.a78bb452b3a7376202b5e62a81530449.txt,From ilug-admin@linux.ie  Fri Aug 23 11:08:19 2002 Return-Path: <ilug-admin@linux.ie> Delivered-To: 
+False Negative (Spam marked as Safe),00403.46d0face754b6bb7dce8b3ea560f75fb.txt,From davidsavimbi@maktoob.com  Sat Sep 21 10:48:50 2002 Return-Path: <davidsavimbi@maktoob.com> Deli
+False Negative (Spam marked as Safe),00240.2ff7f745285653a238214d975859406b.txt,From iiu-admin@taint.org  Sat Sep  7 22:05:49 2002 Return-Path: <iiu-admin@taint.org> Delivered-To: 
+False Negative (Spam marked as Safe),00319.a99dff9c010e00ec182ed5701556d330.txt,Return-Path: ler@lerami.lerctr.org Delivery-Date: Mon Sep  9 12:21:16 2002 Received: via dmail-2002(
+False Negative (Spam marked as Safe),00071.4b7e06d97286ec97820a0f8725878126.txt,From WebDesignHQ.com@carrey.adgrafix.com  Mon Aug 26 15:17:33 2002 Return-Path: <WebDesignHQ.com@car
+False Negative (Spam marked as Safe),00234.6b386bd178f4ae52c67b6c6d15ece489.txt,From ilug-admin@linux.ie  Fri Sep  6 11:40:00 2002 Return-Path: <ilug-admin@linux.ie> Delivered-To: 
+False Negative (Spam marked as Safe),00112.be81f2f6f7940a9403c9809b4a9e243a.txt,From patricehari@yahoo.ca  Tue Aug 27 05:18:23 2002 Return-Path: <patricehari@yahoo.ca> Delivered-To
+False Negative (Spam marked as Safe),00411.fae7b15cc1f966d92c2cedc872893268.txt,From ilug-admin@linux.ie  Sat Sep 21 22:04:31 2002 Return-Path: <ilug-admin@linux.ie> Delivered-To: 
+False Negative (Spam marked as Safe),00440.647d9eb44fd0cb069ea92be204966a8e.txt,From letsrope3626o20@abanet.it  Tue Sep 24 10:52:28 2002 Return-Path: <letsrope3626o20@abanet.it> De
+False Negative (Spam marked as Safe),00388.53eae0055e66fcb7194f9cca080fdefe.txt,From debt_collectors@ns1.chmailnet.com  Fri Sep 20 11:41:27 2002 Return-Path: <debt_collectors@ns1.c
+False Negative (Spam marked as Safe),00136.faa39d8e816c70f23b4bb8758d8a74f0.txt,From donaldbae@purplehotel.com  Wed Aug 28 11:04:12 2002 Return-Path: <donaldbae@purplehotel.com> De
+False Negative (Spam marked as Safe),00135.00e388e3b23df6278a8845047ca25160.txt,From new_adult_toys_0463b54@yahoo.com  Wed Aug 28 11:04:02 2002 Return-Path: <new_adult_toys_0463b54
+False Negative (Spam marked as Safe),00169.86721d6b50e889ed39c7d302adb2a5ab.txt,From lworks1@hotmail.com  Mon Sep  2 12:16:31 2002 Return-Path: <lworks1@hotmail.com> Delivered-To: 
